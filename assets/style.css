@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --navbar-height: 59px;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+}
+#fd1{
+    margin: 48px 50px;
+}
+#ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  #li {
+    display: inline;
+  }
